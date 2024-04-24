@@ -1,0 +1,11 @@
+{
+  "name": "image-accordion",
+  "version": "1.0.0",
+  "description": "An innovative image accordion which features a sleek design perfect for displaying a collection of stunning car images",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Aishan",
+  "license": "ISC"
+}
